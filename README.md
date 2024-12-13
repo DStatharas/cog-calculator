@@ -1,2 +1,2 @@
 # cog-calculator
-Calculator project for cog-training.
+Calculator exercise for cog-training.
